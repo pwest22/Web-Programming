@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(0, 90, 0, 0.5);
+  background-color: rgba(0, 200, 255, 0.8);
 }
 
 h1 {
@@ -16,7 +16,7 @@ h3 {
 }
 
 p {
-  color: green;
+  color: blue;
   font-family: georgia;
 }
 
@@ -63,11 +63,11 @@ img {
 
 ul {
   list-style-type: square;
-  color: green;
+  color: blue;
 }
 
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  color: green;
+  color: blue;
 }
