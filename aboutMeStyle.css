@@ -9,6 +9,10 @@ h1 {
   font-family: courier;
 }
 
+.desc {
+  font-style: italic;
+}
+
 p {
   color: green;
   font-family: georgia;
@@ -18,4 +22,5 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50%
 }
