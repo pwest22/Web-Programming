@@ -9,14 +9,20 @@ h1 {
   font-family: courier;
 }
 
-.desc {
-  text-align: center;
-  font-style: italic;
-}
-
 p {
   color: green;
   font-family: georgia;
+}
+
+.desc {
+  text-align: center;
+  font-style: italic;
+  font-size: 50%;
+}
+
+.mainBody {
+  text-indent: 50px;
+  font-size: 150%;
 }
 
 img {
