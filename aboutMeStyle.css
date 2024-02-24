@@ -40,6 +40,10 @@ p {
   margin-left: 40px;
 }
 
+.subList {
+  list-style-type: circle;
+}
+
 .tableHolder {
   float: right;
   margin-right: 50px;
