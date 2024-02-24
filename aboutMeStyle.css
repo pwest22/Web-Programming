@@ -9,6 +9,11 @@ h1 {
   font-family: courier;
 }
 
+h3 {
+  font-family:courier;
+  font-size: 115%;
+}
+
 p {
   color: green;
   font-family: georgia;
@@ -17,7 +22,6 @@ p {
 .desc {
   text-align: center;
   font-style: italic;
-  font-size: 50%;
 }
 
 .mainBody {
@@ -25,9 +29,38 @@ p {
   font-size: 150%;
 }
 
+.listHolder {
+  float: left;
+  margin-left: 150px;
+  font-family: georgia;
+}
+
+.listHeader {
+  margin-left: 40px;
+}
+
+.tableHolder {
+  float: right;
+  margin-right: 50px;
+  font-family: georgia;
+}
+
+.tableHeader {
+  margin-left: 300px;
+}
+
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%
+  width: 25%
+}
+
+ul {
+  list-style-type: square;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
 }
